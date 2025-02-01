@@ -29,8 +29,6 @@ class FirstViewController: UIViewController{
 	override func updateViewConstraints() {
 		// Настройка констрейнтов
 		super.updateViewConstraints()
-        
-		
 	}
 	
 	override func viewWillLayoutSubviews() {
